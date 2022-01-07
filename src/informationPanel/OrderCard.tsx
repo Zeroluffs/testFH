@@ -1,5 +1,4 @@
 import React from "react";
-import { Card } from "../classes/Card";
 export function OrderCard(props: any): JSX.Element {
   const StatusHeader = ({ children }: { children: any }) => {
     let card = children;
